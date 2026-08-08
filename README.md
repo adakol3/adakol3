@@ -98,14 +98,14 @@ fn build() {
   Duplicate, edit, done.
 -->
 
-### 🔹 [Project Name](https://github.com/your-username/project-repo)
+### 🔹 [Project Name](https://github.com/adakol3/project-repo)
 Short, punchy description of what it does and why it matters — one or two lines max.
 
 **Stack:** `Tech` `Tech` `Tech`
 
 ---
 
-### 🔹 [Project Name](https://github.com/your-username/project-repo)
+### 🔹 [Project Name](https://github.com/adakol3/project-repo)
 Short, punchy description of what it does and why it matters — one or two lines max.
 
 **Stack:** `Tech` `Tech` `Tech`
@@ -116,16 +116,14 @@ Short, punchy description of what it does and why it matters — one or two line
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&icon_color=39FF14&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adakol3&show_icons=true&theme=dark&hide_border=true&icon_color=39FF14&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakol3&layout=compact&theme=dark&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adakol3&theme=dark&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=0D1117" />
 
 </div>
-
-> Replace `your-username` above with your actual GitHub username to activate these.
 
 ---
 
