@@ -27,12 +27,13 @@
 
 I'm **James Adakole David**, a developer, problem solver, and tech entrepreneur building systems that matter. I go by **Adakol3** across the internet — one identity, one standard, everywhere.
 
-```
-function build() {
-  passion = true;
-  coffee  = infinite;
-  code();
-  change_the_world();
+```rust
+fn build() {
+    let passion = true;
+    let mut coffee = i32::MAX;
+
+    code();
+    change_the_world();
 }
 ```
 
@@ -60,6 +61,7 @@ function build() {
 
 <div align="center">
 
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=39FF14)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=39FF14)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=39FF14)
@@ -68,6 +70,22 @@ function build() {
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=39FF14)
 
 *(Update this row anytime your stack evolves — keep only what's actively true.)*
+
+</div>
+
+---
+
+## `</>` Fueled by Rust 🦀
+
+<div align="center">
+
+> *"It's not a bug, it's the borrow checker protecting you from yourself."*
+
+> *"Yes, it compiles. No, I don't know why. Yes, I'm scared to touch it."*
+
+> *"JavaScript: it works until it doesn't. Rust: it doesn't work until it does — then it never breaks again."*
+
+**🦀 Rewrite it in Rust. 🦀**
 
 </div>
 
