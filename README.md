@@ -115,10 +115,10 @@ Short, punchy description of what it does and why it matters — one or two line
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/realdxi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/james-adakole-david-830a84425/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
-[![Website](https://img.shields.io/badge/Website-Coming_Soon-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](#)
+[![Website](https://img.shields.io/badge/Website-Coming_Soon-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](mailto:davidadakol3@gmail.com)
 
 </div>
 
