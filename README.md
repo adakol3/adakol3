@@ -69,8 +69,6 @@ fn build() {
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=39FF14)
 
-*(Update this row anytime your stack evolves — keep only what's actively true.)*
-
 </div>
 
 ---
@@ -83,7 +81,8 @@ fn build() {
 
 > *"Yes, it compiles. No, I don't know why. Yes, I'm scared to touch it."*
 
-> *"JavaScript: it works until it doesn't. Rust: it doesn't work until it does — then it never breaks again."*
+> *"JavaScript: it works until it doesn't.
+> Rust: it doesn't work until it does — then it never breaks again."*
 
 **🦀 Rewrite it in Rust. 🦀**
 
@@ -92,21 +91,6 @@ fn build() {
 ---
 
 ## `</>` Featured Projects
-
-<!--
-  Add a new block like this each time you ship or contribute to something.
-  Duplicate, edit, done.
--->
-
-### 🔹 [Project Name](https://github.com/adakol3/project-repo)
-Short, punchy description of what it does and why it matters — one or two lines max.
-
-**Stack:** `Tech` `Tech` `Tech`
-
----
-
-### 🔹 [Project Name](https://github.com/adakol3/project-repo)
-Short, punchy description of what it does and why it matters — one or two lines max.
 
 **Stack:** `Tech` `Tech` `Tech`
 
